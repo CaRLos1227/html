@@ -184,6 +184,10 @@ aside > ul {
     columns: 2;
 }
 
+abbr {
+    text-decoration: none;
+}
+
 footer {
     padding: 5px;
     color: white;
